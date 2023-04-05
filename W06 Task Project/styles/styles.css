@@ -1,0 +1,75 @@
+body{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+  color: #8a2be2;
+}
+input{
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: 2px solid #8a2be255;
+  background-color: #8a2be222;
+  font-size: 1.25rem;
+}
+select{
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: 2px solid #8a2be255;
+  width: 100%;
+  font-size: 1.25rem;
+}
+label{
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+#calculator-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#tip-amount-box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#tip-amount-box>p{
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+#calculate-btn{
+  background-color: #8a2be2;
+  color: white;
+  font-weight: bold;
+  font-size: 1.125rem;
+  padding: 1rem;
+  height: 48px;
+  border: 1px solid #8a2be2;
+  border-radius: 1rem;
+}
+.section{
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem;
+}
+.hidden {
+  display: hidden;
+}
+
+footer{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  color: #8a2be2;
+}

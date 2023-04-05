@@ -1,0 +1,16 @@
+Project Title: tip/sales tax calculator
+
+The tip is the amount that you give as a way of appreciating the service you have received. 
+
+Project Description
+---------------------------
+The tip calculator takes the billing amount and based on the type of service and number of people entered in the system, it generates the output.
+
+Algorithm
+---------------
+1. Load the page of the website/app
+2. Enter the total bill
+3. Choose the quality of service on the drop down based on percentage
+4. Enter the number of people served
+5. Click the calculate buttton
+6. Prints the amount
